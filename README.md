@@ -1,6 +1,6 @@
 # franco
 
-A Clojure library designed to ... well, that part is up to you.
+A simple Clojure library that translates franco-Arabic text into Arabic.
 
 ## Usage
 
